@@ -22,10 +22,8 @@ description: >- # used by seo meta and the atom feed
   The official N&D Co. blog — your go-to resource for digital marketing, high CTR strategies, SEO-friendly websites, content creation, videography, photography, and cutting-edge tech solutions.
 
 # Fill in the protocol & hostname for your site.
-baseurl: "/blog"
-
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://ndcompany.in"
+url: "https://ndcompany.in/blog"
 
 github:
   username: NDcompany # change to your GitHub username
